@@ -1,0 +1,14 @@
+  Commands.txt
+
+
+My 5 favourite commands are 
+
+ls : to get contents of the directory.
+cd : change the current working directory.
+touch : to create a file.
+cp : to copy a flie in new one
+echo : to copy contents on terminal to a file
+sudo : to do task with superuser permissions e.g. sudo dnf update ( to update package installer dnf in fedora linux.)
+.
+
+

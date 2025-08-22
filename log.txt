@@ -1,0 +1,24 @@
+    1  sudo passwd RP
+    2  sudo dnf update
+    3  sudo dnf emacs
+    4  sudo dnf c
+    5  sudo dnf install emacs -y
+    6  sudo dnf install gcc -y
+    7  gfortran --version
+    8  exit
+    9  mkdir linux_project
+   10  ls
+   11   touch profile.txt commands.txt log.txt
+   12  ls
+   13   rm profile.txt commands.txt log.txt
+   14  ls
+   15  cd linux_project
+   16   touch profile.txt commands.txt log.txt
+   17  ls
+   18  nano profile.txt
+   19  cat profile.txt
+   20  vim commands.txt
+   21  nano commands.txt
+   22  hostory
+   23  history
+   24  history > log.txt
